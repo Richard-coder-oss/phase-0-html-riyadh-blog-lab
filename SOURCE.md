@@ -6,9 +6,7 @@ SUB HEAD
 
 `Where A Traditional Past Meets A Modern Future.`
 
-IMAGE 1 FILE
 
-`transit.jpg`
 
 IMAGE 1 ALT TEXT
 
@@ -46,9 +44,9 @@ IMAGE 3 FILE
 
 `camels-in-truck.jpg`
 
-IMAGE 3 ALT TEXT
 
-`The roads of Riyadh`
+
+`TheIMAGE 3 ALT TEXT roads of Riyadh`
 
 SMALLER SUB HEAD
 
